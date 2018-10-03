@@ -1,0 +1,6 @@
+7b2f2159-8328-49d0-a1a6-f6e957018886,1.23,“JoesTacos”,”2018-12-30”,123,*
+4d2bef47-1e67-47ba-bdda-5863f30eff0c,1.23,“JoesTacos”,”2018-12-30”,123,*
+b874213c-acde-49fe-9c64-9504ca5e0f47,1.23,“JoesTacos”,”2018-12-30”,123
+7a66fa6e-0fe0-4911-93a0-91a9b04c615d,7.8,“FelipeTacos”,”2018-12-31”,456
+150ce7b0-e2fc-4499-9b9a-350a503d0c56,7.8,“FelipeTacos”,”2018-12-31”,456
+4cba1c80-32ae-4e25-bd03-a38ebff1a0b0,7.8,“FelipeTacos”,”2018-12-31”,456
